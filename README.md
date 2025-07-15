@@ -1,4 +1,4 @@
-                                                                                TIMECRAFT – Software Utilitar
+TIMECRAFT – Software Utilitar
 
 I. Tematica:
  În acest capitol se va prezenta ideea aplicației TimeCraft, rolul acesteia în rândul utilizatorilor,
