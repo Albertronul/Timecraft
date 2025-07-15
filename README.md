@@ -1,4 +1,4 @@
-TIMECRAFT – Software Utilitar
+                                                                                TIMECRAFT – Software Utilitar
 
 I. Tematica:
  În acest capitol se va prezenta ideea aplicației TimeCraft, rolul acesteia în rândul utilizatorilor,
@@ -272,8 +272,11 @@ toate versiunile arhivate
 VI. Resurse obligatorii:
 • Codul sursă:
 https://drive.google.com/drive/folders/1ALjlYn3wWsyz8dTE4Fds1wopUI0qhSNX?usp=sharing
+
 • Aplicația și versiunile vechi:
 https://drive.google.com/drive/folders/18vfZSVrJxQN4EcDEb1x7yjEZQbJUgD9r
+
+
 • Bibliografie:
 Linkuri Video:
 https://www.youtube.com/watch?v=TN9i9Ni0Xr4
@@ -301,6 +304,7 @@ https://www.youtube.com/watch?v=6IegDENuxU4
 https://www.youtube.com/watch?v=5lrhxxtevZo
 15
 https://www.youtube.com/watch?v=xUqTgNJgWUs
+
 Fotografii:
 https://hellscanyon.tours/2023/01/30/10-pieces-of-fishing-equipment-and-their-uses/
 https://wavewear.cc/blogs/blog/an-introduction-to-the-art-of-archery-a-sport-of-skill-and-precision
